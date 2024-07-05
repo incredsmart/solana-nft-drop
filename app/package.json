@@ -2,6 +2,7 @@
   "name": "candy-drop",
   "version": "1.0.0",
   "private": true,
+  "author": "incredsmart",
   "dependencies": {
     "@metaplex/js": "^4.7.0",
     "@project-serum/anchor": "^0.18.2",
